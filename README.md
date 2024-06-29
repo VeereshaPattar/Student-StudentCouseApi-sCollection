@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involves postman collection to fetch the information of  All students,fetch the information based on Student Id and StudentCurrent enrollment by calling student api's in postman.
+This project involves postman collection to fetch the information of Courses ,fetch the information based on Student Id.
 
 ## Installation
 
