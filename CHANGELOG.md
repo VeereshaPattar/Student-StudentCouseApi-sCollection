@@ -4,7 +4,7 @@
 - Initial release of the first API collection.
 - Added endpoints for:
   - Returns course information for a specific student..
-  - Fetching student details by ID.
+  - Used to Create a course..
   - Updating student information.
   - Deleting a student record.
 
